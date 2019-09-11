@@ -8,6 +8,8 @@ The issue is that a white screen is shown when returning to the GoogleMap page f
 WebView page, if the app has been paused from the WebView page,
 then resumed.
 
+This has been reported as [Issue #40251](https://github.com/flutter/flutter/issues/40251) against the flutter/flutter repo.
+
 ## Steps to Reproduce
 
 - Merge this repo into a fresh Flutter project.
